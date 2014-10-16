@@ -1,0 +1,40 @@
+.row {
+	display: table-row;
+	text-align: center;
+	clear: left;
+}
+
+span {
+	background-color: #fff;
+	height: 150px;
+	width: 150px;
+	list-style-type: none;
+	display: table-cell;
+	vertical-align: middle;
+	border: 1px solid #ddd;
+}
+
+.none:hover {
+	background-color: #eee;
+}
+
+body {
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	background-color: #ddd;
+	font-family: 'Segoe UI';
+
+}
+
+
+/* Change colours below */
+.black {
+	background-color: #ef6104;
+}
+
+.white {
+	background-color: #0000ff;
+}
+
+/* That's it */

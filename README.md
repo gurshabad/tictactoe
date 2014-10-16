@@ -1,4 +1,4 @@
 tictactoe
 =========
 
-A simple Tic Tac Toe game using Javascript
+A simple Tic Tac Toe game using Javascript.
