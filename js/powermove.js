@@ -1,15 +1,15 @@
 $(document).ready(function() {
 	$('span').click(mark);
-	var i = 0;
+	var player = 0;
 	function mark() {
 		if($(this).hasClass("none")) {
-			if(i%2 == 0) {
-				i = i + 1;
+			if(player == 0) {
+				player = 1;
 				$(this).addClass("white");
 				$(this).removeClass("none");
 				}
 			else {
-				i = i + 1;
+				player = 0;
 				$(this).addClass("black");
 				$(this).removeClass("none");
 			}
