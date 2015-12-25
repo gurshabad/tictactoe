@@ -1,4 +1,6 @@
 tictactoe
 =========
 
-A simple Tic Tac Toe game using Javascript
+Tic Tac Toe using Javascript. Play at http://gurshabad.github.io/tictactoe
+
+All code is in the gh-pages branch.
